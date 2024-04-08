@@ -1,0 +1,21 @@
+1. man opens up the manual for a specific command. You can scroll with down arrow or enter and get out with q.
+
+2. -l gives the longform list with info about each file or folder and -a makes it list all the files even if they start with a .
+
+3. You can jump by holding alt and pressing left or right arrow keys.
+
+4. control e gets to the end of a line in terminal
+
+5. control a gets to the beginning of a line in terminal
+
+6. control w deletes a word in terminal
+
+7. A terminal is a program that has a gui for interacting with the shell. The shell actually works out the commands.
+
+8. Absolute path starts from the root and goes all the way to the file or folder
+
+9. Relative path starts from the current location and goes to the file or folder.
+
+10. A flag gives options for how a command will be run. -a or -l for the ls command lists different things about the files. -r and -f for the rm command deletes directories without asking.
+
+11. -r removes folders and all their files, and -f will force the deletion.
